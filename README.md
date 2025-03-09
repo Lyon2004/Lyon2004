@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lyon2004
-- 👀 I’m interested in Tech, Coding, Animals and Food!
-- 🌱 I’m currently learning Software Engenieer, C++ and Phyton
+- 👀 I’m interested in desing, Tech, Coding, Animals and Food!
+- 🌱 I’m currently learning Software Engenieer and graphic desing
 - 💞️ I’m looking to collaborate on Real Markets Proyects
 - 📫 How to reach me roquemorel128@gmail.com
 - 😄 Pronouns: he/him/she/hers
